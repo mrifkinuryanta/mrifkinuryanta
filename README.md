@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrifkinuryanta&label=Profile%20views&color=0e75b6&style=flat" alt="mrifkinuryanta" /> </p>
 
-- 👨‍💻 All of my projects are available at [mrifkinuryanta.github.io](mrifkinuryanta.github.io)
+- 👨‍💻 All of my projects are available at [https://mrifkinuryanta.github.io](https://mrifkinuryanta.github.io)
 
 - 📫 How to reach me **mrifkinuryanta@gmail.com**
 
